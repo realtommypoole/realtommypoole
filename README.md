@@ -41,13 +41,6 @@ That means asking:
 - RAG, open-weight models, and deployment trade-offs
 - Connecting technical performance to financial and operational value
 
-## ⚡ A little personality
-
-My finance side asks, “What’s the return?”
-My AI side asks, “Compared with what baseline?”
-
-The best projects answer both.
-
 ---
 
 Thanks for stopping by. Explore the projects below for code, experiments, and lessons learned.
