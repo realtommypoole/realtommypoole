@@ -1,4 +1,4 @@
-# Hi, I’m Tommy Poole 👋
+# Hi, I’m Tommy 👋
 
 Builder curiosity. Healthcare context. Finance discipline. 
 
