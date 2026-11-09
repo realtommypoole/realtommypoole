@@ -22,7 +22,7 @@ An applied AI project exploring how fine-tuning and evaluation can improve retri
 
 - Focus: improving the quality of retrieval-augmented question answering.
 - Approach: exploring fine-tuning and evaluating its effect on system performance.
-- Key question: what actually improves an AI system—and how do we know?
+- Key question: can we fine-tune nano models to perform well on business information?
 
 ### [SLAM-Lite – Drone Visual Mapping & Trajectory Estimation](https://github.com/wushuchris/aai-521-group-7)
 
