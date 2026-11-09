@@ -16,7 +16,7 @@ This portfolio brings together my hands-on AI work and selected academic collabo
 
 ## 🧪 Featured Work
 
-### [RAG Optimization](https://github.com/realtommypoole/LLMRAGOptimize)
+### [RAG Optimization, Nano LLM Supervised Fine Tuning](https://github.com/realtommypoole/LLMRAGOptimize)
 
 An applied AI project exploring how fine-tuning and evaluation can improve retrieval-augmented generation (RAG).
 
